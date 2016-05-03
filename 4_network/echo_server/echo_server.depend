@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462177051 source:/home/khg/IT_EX/4_network/echo_server/main.c
+	<sys/socket.h>
+	<sys/stat.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<string.h>
+
