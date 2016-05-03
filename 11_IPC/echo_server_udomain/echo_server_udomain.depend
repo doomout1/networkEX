@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462271396 source:/home/khg/IT_EX/11_IPC/echo_server_udomain/main.c
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/socket.h>
+	<sys/un.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+

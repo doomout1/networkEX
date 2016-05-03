@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462265089 source:/home/khg/networkEX/11_IPC/echo_server_pipe/main.c
+	<sys/types.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+
