@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461948820 source:/home/khg/IT_EX/8_TCP/cal_server/main.c
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/time.h>
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461169035 source:/home/khg/IT_EX/TCP_IP/echo_client.c
+	<sys/socket.h>
+	<arpa/inet.h>
+	<sys/stat.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+

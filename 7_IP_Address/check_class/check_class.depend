@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461571348 source:/home/khg/IT_EX/7_IP_Address/check_class/main.c
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<string.h>
+	<stdio.h>
+

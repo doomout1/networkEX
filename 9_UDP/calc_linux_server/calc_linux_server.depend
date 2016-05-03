@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462026008 source:/home/khg/IT_EX/9_UDP/calc_linux_server/main.c
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/socket.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
