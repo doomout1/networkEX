@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462334198 source:/home/khg/networkEX/11_IPC/shm_producer_sem/main.c
+	<sys/ipc.h>
+	<sys/shm.h>
+	<sys/sem.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
