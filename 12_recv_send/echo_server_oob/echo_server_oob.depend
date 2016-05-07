@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462596202 source:/home/khg/networkEX/12_recv_send/echo_server_oob/main.c
+	<sys/socket.h>
+	<sys/stat.h>
+	<sys/signal.h>
+	<arpa/inet.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
