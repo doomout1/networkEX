@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463023113 source:/home/khg/networkEX/13_Select/echo_server_multi/main.c
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<string.h>
+
