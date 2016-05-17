@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463481853 source:/home/khg/networkEX/14_Linux_Mulit_thread/catc_multi/main.c
+	<pthread.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

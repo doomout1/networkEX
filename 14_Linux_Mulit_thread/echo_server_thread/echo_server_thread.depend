@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463139670 source:/home/khg/networkEX/14_Linux_Mulit_thread/echo_server_thread/main.c
+	<pthread.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+

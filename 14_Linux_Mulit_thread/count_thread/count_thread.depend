@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463131695 source:/home/khg/networkEX/14_Linux_Mulit_thread/count_thread/main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
