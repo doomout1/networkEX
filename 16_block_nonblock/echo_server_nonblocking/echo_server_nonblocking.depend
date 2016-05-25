@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1464153264 source:/home/khg/networkEX/16_block_nonblock/echo_server_nonblocking/main.c
+	<sys/socket.h>
+	<sys/stat.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+
