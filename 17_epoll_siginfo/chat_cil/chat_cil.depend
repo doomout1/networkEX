@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1464424810 source:/home/khg/networkEX/17_epoll_siginfo/chat_cil/main.c
+	<stdlib.h>
+	<unistd.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<sys/epoll.h>
+	<string.h>
+	<stdio.h>
+
