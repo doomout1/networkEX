@@ -1,0 +1,24 @@
+static double sum_avg;
+
+double * average_1(inpnt_data *input, CLIENT *client) {
+   double *dp = input->input_data.input_data_val;
+   u_int i;
+   sum_avg = 0;
+/*
+ 클라이언트에서 전송한 데이터의 포인터인 input을 순환하면서 모두 더해준다.
+*/
+   for(i = 1; i <= input->input_data.input_data_len; i++) {
+      sum_avg = sum_avg + *dp;
+      dp++;
+   }
+/*
+더한 값을 데이터 개수로 나누어서 평균 값을 계산하고, 이를 반환한다.
+*/
+   sum_avg = sum_avg / input->input_data.input_data_len;
+   return(&sum_avg);
+}
+
+double * averageprog_1_svc(input_data *input, struct svc_req *svc) {
+  CLIENT *client;
+  return(average_1(input, client));
+}
