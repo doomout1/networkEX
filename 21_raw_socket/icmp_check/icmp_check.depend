@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465611377 source:/home/khg/networkEX/21_raw_socket/icmp_check/main.c
+	<stdlib.h>
+	<string.h>
+	<netinet/ip.h>
+	<netinet/ip_icmp.h>
+	<arpa/inet.h>
+	<errno.h>
+	<sys/socket.h>
+	<stdio.h>
+	<unistd.h>
+
