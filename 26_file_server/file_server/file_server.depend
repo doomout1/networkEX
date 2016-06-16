@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1466052189 source:/home/khg/networkEX/26_file_server/file_server/main.c
+	<sqlite3.h>
+	<sys/socket.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/signal.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	<fcntl.h>
+	<time.h>
+
